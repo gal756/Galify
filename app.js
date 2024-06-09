@@ -54,6 +54,7 @@ app.use(errorHandlerMiddleware);
 
 db.connectToDatabase()
   .then(function () {
+    console.log("it's start");
     app.listen(3000);
   })
   .catch(function (error) {
