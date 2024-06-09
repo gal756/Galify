@@ -7,7 +7,7 @@ let database;
 async function connectToDatabase() {
   let client;
   if (process.env.MONGO_URL){
-    client = await MongoClient.connect(process.env.MONGO_URL+':'+process.env.MONGOPORT);
+    client = await MongoClient.connect(process.env.MONGO_URL);
   }
   client = await MongoClient.connect('mongodb://localhost:27017');
   database = client.db('online-shop');
