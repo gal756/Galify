@@ -3,7 +3,7 @@ Welcome to Gailfy, a web shop application built with Node.js, Express, and Mongo
 
 ## Introduction
 Gailfy is a web shop platform designed to provide an intuitive and seamless shopping experience. Leveraging Node.js for backend operations, Express for routing, and MongoDB for flexible data storage, Gailfy aims to offer a robust solution for online retail.
-**Live View**: You can try out the live version of the Mentor Web App [here](<https://galify.up.railway.app/)>).
+**Live View**: You can try out the live version of the Gailfy Web shop [here](<https://galify.up.railway.app/)>).
 
 ## Features
 User Authentication: Secure user authentication and authorization.
