@@ -14,24 +14,21 @@ Search and Filters: Efficient product search and filtering options.
 Responsive Design: Ensures a seamless experience across devices.
 Technologies Used
 ## Backend:
-Node.js
-Express.js
-MongoDB (with Mongoose for ODM)
-JSON Web Tokens (JWT) for authentication
-Bcrypt.js for password hashing
-Express-validator for input validation
+Node.js,
+Express.js,
+MongoDB (with Mongoose for ODM),
+JSON Web Tokens (JWT) for authentication,
+Bcrypt.js for password hashing,
+Express-validator for input validation,
 ## Frontend:
-HTML5, CSS3, JavaScript (ES6+)
+HTML5, CSS3, JavaScript (ES6+),
 EJS (Embedded JavaScript) for server-side templating
 
 ## Deployment & Others:
 
 Raileays for deployment
-Git for version control
+Git for version control,
 npm for package management
-Getting Started
-To get a local copy of Gailfy up and running, follow these steps:
-
 
 Email: gal756@gmail.com
 GitHub: gal756
